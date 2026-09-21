@@ -69,7 +69,7 @@ void loop() {
 ##Observation
 
 <img width="1600" height="719" alt="image" src="https://github.com/user-attachments/assets/950b687e-0a85-4f1e-8237-11237ee8e459" />
-![Uploading image.png…]()
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/58a39160-40f4-4de7-8aeb-8c969b614e21" />
 
 
 ##Result
