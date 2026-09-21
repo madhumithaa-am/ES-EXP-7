@@ -69,6 +69,8 @@ void loop() {
 ##Observation
 
 <img width="1600" height="719" alt="image" src="https://github.com/user-attachments/assets/950b687e-0a85-4f1e-8237-11237ee8e459" />
+![Uploading image.png…]()
+
 
 ##Result
 
